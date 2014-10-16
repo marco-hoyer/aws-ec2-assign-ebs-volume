@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from aws_ec2_assign_ebs_volume import Ec2Instance
 
 if __name__ == "__main__":
