@@ -14,7 +14,7 @@ This needs you to dynamically attach EBS volumes to an instance during startup. 
 
 - [boto SDK](http://docs.pythonboto.org/en/latest/getting_started.html)
 
-- AWS [credentials for boto](http://docs.pythonboto.org/en/latest/boto_config_tut.html#credentials) (e.g. $HOME/.boto file)
+- AWS [credentials for boto](http://docs.pythonboto.org/en/latest/boto_config_tut.html#credentials) (e.g. a EC2 instance profile)
 
 ## Usage
 ```
